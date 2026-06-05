@@ -1,4 +1,4 @@
-## Phân tích
+## Analysis
 
 Chạy chương trình và thử nhập dữ liệu bất kỳ, chương trình sẽ trả về `Correct` hoặc `Wrong`.
 
