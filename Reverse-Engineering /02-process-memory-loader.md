@@ -520,7 +520,7 @@ Trên Windows, chúng ta sẽ phối hợp nhịp nhàng giữa các công cụ 
 * **Cấp phát & Đổi quyền RAM:** `VirtualAlloc`, `VirtualProtect`, `VirtualAllocEx`, `VirtualProtectEx`.
 * **Thao túng/Tiêm nhiễm tiến trình:** `OpenProcess`, `WriteProcessMemory`, `CreateRemoteThread`, `SetThreadContext`, `ResumeThread`.
 * **Nạp file / Ánh xạ thư viện:** `LoadLibraryA/W`, `GetProcAddress`, `CreateFileMapping`, `MapViewOfFile`.
-## 17. Tổng hợp những sai lầm chí mạng của người mới học RE / Pwn
+## 14. Tổng hợp những sai lầm chí mạng của người mới học RE / Pwn
 
 Để không tự biến mình thành một "gà mờ" khi debug và phân tích bộ nhớ, hãy luôn ghi nhớ và soi chiếu bản thân qua 7 lỗi kinh điển sau:
 
